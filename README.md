@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Carlos Alfredo Oliveira de Lima</h1>
 <h3 align="center">Desenvolvedor de software júnior e estudante de Bacharelado em Ciência de Dados</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Me encontre</h3>
+<p align="center">
 <a href="https://linkedin.com/in/carlosalfredooliveiradelima/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosalfredooliveiradelima/" height="30" width="40" /></a>
 <a href="https://kaggle.com/carlosaolima" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="carlosaolima" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/carlos_aol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="carlos_aol" height="30" width="40" /></a>
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosalfredooliveiradelima&show_icons=true&locale=en&layout=compact" alt="carlosalfredooliveiradelima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosalfredooliveiradelima&show_icons=true&locale=en" alt="carlosalfredooliveiradelima" /></p>
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosAlfredoOliveiraDeLima&hide=contribs,prs)
