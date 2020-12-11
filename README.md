@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Carlos Alfredo Oliveira de Lima</h1>
+<h1 align="center" style="color:#268bd2">Carlos Alfredo Oliveira de Lima</h1>
 <h3 align="center">Desenvolvedor de software júnior e estudante de Bacharelado em Ciência de Dados</h3>
 
 <h3 align="center">Me encontre</h3>
