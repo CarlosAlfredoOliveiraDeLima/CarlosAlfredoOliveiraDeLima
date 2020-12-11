@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosalfredooliveiradelima&show_icons=true&locale=en" alt="carlosalfredooliveiradelima" /></p>
 
 
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=CarlosAlfredoOliveiraDeLima&hide=contribs,prs)
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlosalfredooliveiradelima&show_icons=true&locale=en&hide=contribs,prs)
