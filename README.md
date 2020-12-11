@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Alfredo Oliveira de Lima</h1>
 
 <h3 align="center">Desenvolvedor de software júnior e estudante de Bacharelado em Ciência de Dados</h3>
-<p>Sou um desenvolvedor de software em formação e futuro engenheiro/cientista de dados, cursando bacharelado em ciência dados na UNIVESP.</p>
+<p>Sou um desenvolvedor de software em formação e futuro engenheiro/cientista de dados, cursando bacharelado em ciência dados na UNIVESP, apaixonado por dados :heart: e toda cultura <em><strong>Data Driven</strong></em>. Em 2020 tive a oportunidade de ser competidor no ICPC - International Collegiate Programming Contest - pela UNIVESP, onde me encontrei no mundo de competições de programação</p>
 <p>Estou em busca de meu primeiro emprego em TI como estagiário ou desenvolvedor júnior</p>
 
 
