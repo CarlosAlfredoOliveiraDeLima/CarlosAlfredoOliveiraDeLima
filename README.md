@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosalfredooliveiradelima&show_icons=true&locale=en&theme=solarized-light&layout=compact" alt="carlosalfredooliveiradelima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosalfredooliveiradelima&show_icons=true&locale=en&count_private=true&theme=solarized-light" alt="carlosalfredooliveiradelima" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=carlosalfredooliveiradelima&show_icons=true&locale=en&count_private=true&theme=solarized-light" alt="carlosalfredooliveiradelima" /></p>
 
-
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlosalfredooliveiradelima&show_icons=true&locale=en&count_private=true&theme=kacho_ga&hide=contribs,prs)
