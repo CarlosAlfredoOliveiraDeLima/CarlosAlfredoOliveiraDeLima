@@ -20,7 +20,7 @@
 
 
 <h3>Linguagens e Ferramentas</h3>
-<p>Como aluno de ciência de dados a linguagem que mais tenho prática é Python, atualmente me dedico também a aprender Django, C# e .NET Core. Tenho conhecimentos em SQL(MySQL), HTML, CSS, Javascript e Git/GitHub, também tenho interesse em linguagem R e Java</p>
+<p>Como aluno de ciência de dados a linguagem que mais tenho prática é Python, atualmente me dedico também a aprender Django, C# e .NET Core. Tenho conhecimentos em programação orientada a objetos, SQL(MySQL), HTML, CSS, Javascript e Git/GitHub, também tenho interesse em linguagem R e Java</p>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
