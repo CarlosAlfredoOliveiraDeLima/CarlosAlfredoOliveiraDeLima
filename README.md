@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Alfredo Oliveira de Lima</h1>
-<br><br>
+
 <h3 align="center">Desenvolvedor de software júnior e estudante de Bacharelado em Ciência de Dados</h3>
-<p>Sou um desenvolvedor de software em formação e futuro engenheiro e/ou cientista de dados, estou cursando bacharelado em ciência dados na UNIVESP.</p>
+<p>Sou um desenvolvedor de software em formação e futuro engenheiro/cientista de dados, cursando bacharelado em ciência dados na UNIVESP.</p>
 <p>Estou em busca de meu primeiro emprego em TI como estagiário ou desenvolvedor júnior</p>
 
 
@@ -17,6 +17,8 @@
   <p align="right"><a href="https://kaggle.com/carlosaolima" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="carlosaolima" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/carlos_aol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="carlos_aol" height="30" width="40" /></a></p>
 </span>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
