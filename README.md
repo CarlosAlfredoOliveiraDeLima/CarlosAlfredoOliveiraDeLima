@@ -11,15 +11,17 @@
   <a href="mailto:carlos.alfredo.oliveira.de.lima@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/gmail.svg" alt="carlos_aol" height="30" width="40" /></a></p>
 </span>
 
+<!--
 <span align="right">
   <h4>Kaggle e HackerRank:</h4>
   <p align="right"><a href="https://kaggle.com/carlosaolima" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="carlosaolima" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/carlos_aol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="carlos_aol" height="30" width="40" /></a></p>
 </span>
+--!>
 
 
 <h3>Linguagens e Ferramentas</h3>
-<p>Como aluno de ciência de dados a linguagem que mais tenho prática é Python, atualmente me dedico também a aprender Django, C# e .NET Core. Tenho conhecimentos em programação orientada a objetos, SQL(MySQL e PostgreSQL), HTML, CSS, Javascript e Git/GitHub, também tenho interesse em linguagem R e Java</p>
+<p>Como aluno de ciência de dados a linguagem que mais tenho prática é Python, atualmente me dedico também a aprender PHP, C# e .NET Core. Tenho conhecimentos em programação orientada a objetos, SQL(MySQL e PostgreSQL), HTML, CSS, Javascript e Git/GitHub, também tenho interesse em linguagem R e Java</p>
 
 <!--
 <p align="center">
